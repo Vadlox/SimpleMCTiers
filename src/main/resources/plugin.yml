@@ -2,7 +2,7 @@ name: SimpleMCTiers
 version: '2.0'
 main: vadlox.dev.simpleMCTiers.SimpleMCTiers
 api-version: '1.21'
-description: The Ultimate Clans Plugin.
+description: The Ultimate Tiers Plugin.
 website: vadlox.hydraquest.net
 depend: [ PlaceholderAPI ]
 authors:
